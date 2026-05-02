@@ -104,11 +104,13 @@ This platform solves the problem by:
 ## 🌐 Local Run
 
 Backend:
+
 1. Start backend
    npm run dev
 http://localhost:5000
 
 Frontend:
+
 2. Start frontend
    npm start
 http://localhost:3000
